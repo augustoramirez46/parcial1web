@@ -32,6 +32,8 @@ body {
 
     &__range {
         width: $w;
+        position: relative;
+        top: 50px;
 
     }
 }
